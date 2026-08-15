@@ -16,7 +16,9 @@
       "type": "folder",
       "fav": false,
       "children": [],
-      "isLocked": false
+      "isLocked": true,
+      "lockHash": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+      "lockExpiry": "2026-08-15T22:43"
     },
     {
       "id": 1786779795982,
