@@ -1,3 +1,12 @@
 {
-  "items": []
+  "items": [
+    {
+      "id": 1786779795982,
+      "title": "Hollywood Server",
+      "thumb": "https://cdn-icons-png.flaticon.com/512/12075/12075830.png",
+      "type": "folder",
+      "fav": false,
+      "children": []
+    }
+  ]
 }
