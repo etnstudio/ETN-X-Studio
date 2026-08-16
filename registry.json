@@ -1,11 +1,11 @@
 {
   "username": "etnstudio",
-  "repo": "ETN-X-Studio",
+  "repo": "ETN-X-Studio2",
   "path": "data/data.json",
   "branch": "main",
-  "updatedAt": "2026-08-16T12:45:18.498Z",
+  "updatedAt": "2026-08-16T12:56:00.066Z",
   "updatedBy": "ETN X-Studio Admin Master Server Manager",
   "version": "2.0.0",
   "isActive": true,
-  "sourceName": "ETN Main Server"
+  "sourceName": "ETN X Studio X Data"
 }
