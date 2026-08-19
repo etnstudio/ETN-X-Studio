@@ -2,13 +2,13 @@
   "settings": {
     "ads": {
       "admob": {
-        "enabled": false,
-        "appId": "",
-        "bannerId": "",
-        "interstitialId": ""
+        "enabled": true,
+        "appId": "ca-app-pub-3940256099942544/9257395921",
+        "bannerId": "ca-app-pub-3940256099942544/9214589741",
+        "interstitialId": "ca-app-pub-3940256099942544/1033173712"
       },
       "unity": {
-        "enabled": true,
+        "enabled": false,
         "gameId": "6178057",
         "bannerId": "Banner_Android",
         "interstitialId": "Interstitial_Android"
@@ -25,8 +25,8 @@
         "bannerId": "",
         "interstitialId": ""
       },
-      "strategy": "unity_only",
-      "interstitialClicks": 4
+      "strategy": "admob_only",
+      "interstitialClicks": 3
     }
   },
   "items": [
