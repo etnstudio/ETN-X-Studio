@@ -1,4 +1,34 @@
 {
+  "settings": {
+    "ads": {
+      "admob": {
+        "enabled": false,
+        "appId": "",
+        "bannerId": "",
+        "interstitialId": ""
+      },
+      "unity": {
+        "enabled": true,
+        "gameId": "6178057",
+        "bannerId": "Banner_Android",
+        "interstitialId": "Interstitial_Android"
+      },
+      "applovin": {
+        "enabled": false,
+        "sdkKey": "",
+        "bannerId": "",
+        "interstitialId": ""
+      },
+      "ironsource": {
+        "enabled": false,
+        "appKey": "",
+        "bannerId": "",
+        "interstitialId": ""
+      },
+      "strategy": "unity_only",
+      "interstitialClicks": 4
+    }
+  },
   "items": [
     {
       "id": 1786779795983,
