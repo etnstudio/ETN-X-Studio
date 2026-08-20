@@ -2,7 +2,7 @@
   "settings": {
     "ads": {
       "admob": {
-        "enabled": false,
+        "enabled": true,
         "appId": "ca-app-pub-3940256099942544/9257395921",
         "bannerId": "ca-app-pub-3940256099942544/9214589741",
         "interstitialId": "ca-app-pub-3940256099942544/1033173712"
@@ -20,12 +20,12 @@
         "interstitialId": ""
       },
       "ironsource": {
-        "enabled": true,
+        "enabled": false,
         "appKey": "27b444245",
         "bannerId": "0ycm8z4sqm2xrr7w",
         "interstitialId": "aeebpin36y7k26xh"
       },
-      "strategy": "ironsource_only",
+      "strategy": "admob_only",
       "interstitialClicks": 3
     }
   },
