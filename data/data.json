@@ -27,6 +27,25 @@
       },
       "strategy": "admob_only",
       "interstitialClicks": 3
+    },
+    "maintenance": {
+      "enabled": false,
+      "message": "App is under maintenance."
+    },
+    "featureFlags": {
+      "downloadsEnabled": true,
+      "historyEnabled": true,
+      "favoritesEnabled": true,
+      "searchEnabled": true,
+      "watchlistEnabled": true,
+      "profilesEnabled": true,
+      "kidsModeEnabled": false
+    },
+    "__admin20x": {
+      "schemaVersion": 2,
+      "configVersion": "1.0.0",
+      "environment": "Production",
+      "generatedAt": "2026-08-21T16:46:21.221Z"
     }
   },
   "items": [
