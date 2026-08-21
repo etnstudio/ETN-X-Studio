@@ -37,15 +37,15 @@
       "historyEnabled": true,
       "favoritesEnabled": true,
       "searchEnabled": true,
-      "watchlistEnabled": true,
+      "watchlistEnabled": false,
       "profilesEnabled": true,
-      "kidsModeEnabled": false
+      "kidsModeEnabled": true
     },
     "__admin20x": {
       "schemaVersion": 2,
       "configVersion": "1.0.0",
       "environment": "Production",
-      "generatedAt": "2026-08-21T16:46:21.221Z"
+      "generatedAt": "2026-08-21T17:31:40.828Z"
     }
   },
   "items": [
