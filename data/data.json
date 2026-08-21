@@ -2,7 +2,7 @@
   "settings": {
     "ads": {
       "admob": {
-        "enabled": true,
+        "enabled": false,
         "appId": "ca-app-pub-3940256099942544/9257395921",
         "bannerId": "ca-app-pub-3940256099942544/9214589741",
         "interstitialId": "ca-app-pub-3940256099942544/1033173712"
