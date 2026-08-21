@@ -33,9 +33,9 @@
       "message": "App is under maintenance."
     },
     "featureFlags": {
-      "downloadsEnabled": true,
-      "historyEnabled": true,
-      "favoritesEnabled": true,
+      "downloadsEnabled": false,
+      "historyEnabled": false,
+      "favoritesEnabled": false,
       "searchEnabled": false,
       "watchlistEnabled": false,
       "profilesEnabled": false,
@@ -45,7 +45,7 @@
       "schemaVersion": 2,
       "configVersion": "1.0.0",
       "environment": "Production",
-      "generatedAt": "2026-08-21T19:08:48.897Z"
+      "generatedAt": "2026-08-21T19:10:00.735Z"
     }
   },
   "items": [
