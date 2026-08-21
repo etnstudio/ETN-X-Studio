@@ -39,13 +39,13 @@
       "searchEnabled": true,
       "watchlistEnabled": false,
       "profilesEnabled": true,
-      "kidsModeEnabled": false
+      "kidsModeEnabled": true
     },
     "__admin20x": {
       "schemaVersion": 2,
       "configVersion": "1.0.0",
       "environment": "Production",
-      "generatedAt": "2026-08-21T19:13:28.784Z"
+      "generatedAt": "2026-08-21T19:15:19.786Z"
     }
   },
   "items": [
