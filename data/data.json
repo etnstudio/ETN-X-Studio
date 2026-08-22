@@ -77,7 +77,7 @@
           "title": "YouTube cartoon",
           "thumb": "https://picsum.photos/seed/1786779795995/400/300",
           "type": "video",
-          "fav": true,
+          "fav": false,
           "url": "https://youtu.be/K8IUs5yql-M?si=tQOS06QgaezQTHB4"
         }
       ],
