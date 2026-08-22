@@ -70,16 +70,7 @@
           "thumb": "https://i.ytimg.com/vi/osbNrEfg7wg/maxresdefault.jpg",
           "type": "folder",
           "fav": false,
-          "children": [
-            {
-              "id": 1786779795996,
-              "title": "https://www.dropbox.com/scl/fi/4mfx1cbvlyvvku0fiu8d9/Yeh.Dillagi.1994.1080p.AMZN.WEB-DL.DDP2.0.HEVC-TombDoc.mp4?rlkey=3rnbm5bkck6twplnb7sggefbl&st=us8zy3d6&dl=0",
-              "url": "",
-              "thumb": "https://picsum.photos/seed/1786779795997/400/300",
-              "type": "video",
-              "fav": false
-            }
-          ],
+          "children": [],
           "isLocked": false,
           "lockHash": "",
           "lockExpiry": ""
