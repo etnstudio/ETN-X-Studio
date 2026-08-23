@@ -163,6 +163,17 @@
         }
       ],
       "isLocked": false
+    },
+    {
+      "id": 1786779795998,
+      "title": "Nohay Server",
+      "thumb": "https://picsum.photos/seed/1786779795999/400/300",
+      "type": "folder",
+      "fav": false,
+      "children": [],
+      "isLocked": false,
+      "lockHash": "",
+      "lockExpiry": ""
     }
   ]
 }
