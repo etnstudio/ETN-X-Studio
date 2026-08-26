@@ -161,6 +161,17 @@
       "lockExpiry": ""
     },
     {
+      "id": 1786779796001,
+      "title": "Avatar Folder",
+      "thumb": "https://media.gettyimages.com/id/2249484002/video/global-premiere-of-20th-century-studios-avatar-fire-and-ash.jpg?s=640x640&k=20&c=h-Zz0WNNawjpT5lACZvZgbIkMIiLLzHCgBlp6X_Aplo=",
+      "type": "folder",
+      "fav": false,
+      "children": [],
+      "isLocked": false,
+      "lockHash": "",
+      "lockExpiry": ""
+    },
+    {
       "id": 1786779795986,
       "title": "Songs Server",
       "thumb": "https://cdn-icons-png.flaticon.com/512/12075/12075830.png",
@@ -194,17 +205,6 @@
         }
       ],
       "isLocked": false
-    },
-    {
-      "id": 1786779796001,
-      "title": "Old test file folder",
-      "thumb": "https://picsum.photos/seed/1786779796002/400/300",
-      "type": "folder",
-      "fav": false,
-      "children": [],
-      "isLocked": false,
-      "lockHash": "",
-      "lockExpiry": ""
     }
   ]
 }
