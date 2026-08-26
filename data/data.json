@@ -63,6 +63,14 @@
           "type": "video",
           "fav": false,
           "url": "https://youtu.be/nb_fFj_0rq8?si=28_OBnZgnxr-8BBv"
+        },
+        {
+          "id": 1786779796003,
+          "title": "Test Avatar Video",
+          "thumb": "https://raw.githubusercontent.com/etnstudio/ETN-X-Studio/main/thumbnails/thumb_1787745745667.jpg",
+          "type": "video",
+          "fav": false,
+          "url": "https://youtu.be/nb_fFj_0rq8?si=28_OBnZgnxr-8BBv"
         }
       ],
       "isLocked": false,
