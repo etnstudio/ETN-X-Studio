@@ -130,6 +130,17 @@
       "isLocked": false
     },
     {
+      "id": 1786779796000,
+      "title": "My Picture Test Folder",
+      "thumb": "https://raw.githubusercontent.com/etnstudio/ETN-X-Studio/main/thumbnails/thumb_1787738749951.jpg",
+      "type": "folder",
+      "fav": false,
+      "children": [],
+      "isLocked": false,
+      "lockHash": "",
+      "lockExpiry": ""
+    },
+    {
       "id": 1786779795998,
       "title": "Nohay Server",
       "thumb": "https://picsum.photos/seed/1786779795999/400/300",
@@ -185,9 +196,9 @@
       "isLocked": false
     },
     {
-      "id": 1786779796000,
-      "title": "My Picture Test Folder",
-      "thumb": "https://raw.githubusercontent.com/etnstudio/ETN-X-Studio/main/thumbnails/thumb_1787738749951.jpg",
+      "id": 1786779796001,
+      "title": "Old test file folder",
+      "thumb": "https://picsum.photos/seed/1786779796002/400/300",
       "type": "folder",
       "fav": false,
       "children": [],
