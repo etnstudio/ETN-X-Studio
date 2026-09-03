@@ -173,6 +173,21 @@
       "isLocked": false
     },
     {
+      "id": 1786779796007,
+      "title": "Kali Jutta Full Punjabi Movie",
+      "thumb": "https://raw.githubusercontent.com/etnstudio/ETN-X-Studio/main/thumbnails/thumb_1788433185362.jpg",
+      "type": "video",
+      "fav": false,
+      "url": "https://www.dropbox.com/scl/fi/xhcy3jnv1vnzsivgprurr/MixDrop_-_Watch_Kali_Jotta_-2023-_Punjabi_720pc.mp4?rlkey=lm3jgfdk55pkiuc2uoslk349v&st=vr3ziht3&dl=1",
+      "featured": true,
+      "featuredOrder": 1,
+      "tags": [
+        "Sci Fi Punjabi Movies full Hindi Punjabi movies"
+      ],
+      "duration": "30:01",
+      "isLocked": false
+    },
+    {
       "id": 1786779796004,
       "title": "Mage link test",
       "thumb": "https://raw.githubusercontent.com/etnstudio/ETN-X-Studio/main/thumbnails/thumb_1787847173034.jpg",
@@ -267,20 +282,6 @@
         }
       ],
       "isLocked": false
-    },
-    {
-      "id": 1786779796007,
-      "title": "Kali Jutta Full Punjabi Movie",
-      "thumb": "https://raw.githubusercontent.com/etnstudio/ETN-X-Studio/main/thumbnails/thumb_1788433185362.jpg",
-      "type": "video",
-      "fav": false,
-      "url": "https://www.dropbox.com/scl/fi/xhcy3jnv1vnzsivgprurr/MixDrop_-_Watch_Kali_Jotta_-2023-_Punjabi_720pc.mp4?rlkey=lm3jgfdk55pkiuc2uoslk349v&st=vr3ziht3&dl=1",
-      "featured": true,
-      "featuredOrder": 2,
-      "tags": [
-        "Punjabi Movies full Hindi Punjabi movies"
-      ],
-      "duration": "30:01"
     }
   ]
 }
